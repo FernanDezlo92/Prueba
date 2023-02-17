@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.Menu{
+  background-color: red;
+  width: 10%;
+  align-items: center;
+  grid-template-columns: auto;
+  opacity: 1;
+}
+
+.diseable{
+  opacity: 0;
+}
